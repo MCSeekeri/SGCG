@@ -1,0 +1,19 @@
+{
+  "name": "sgcg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MCSeekeri/SGCG.git"
+  },
+  "author": "MCSeekeri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MCSeekeri/SGCG/issues"
+  },
+  "homepage": "https://github.com/MCSeekeri/SGCG#readme"
+}
